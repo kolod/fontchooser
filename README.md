@@ -1,5 +1,3 @@
-![Java Swing Font Chooser Logo](logo.svg)
-
 # Java Swing Font Chooser Dialog and Panel
 
 [![pipeline status](https://gitlab.com/dheid/fontchooser/badges/master/pipeline.svg)](https://gitlab.com/dheid/fontchooser/commits/master)
@@ -14,16 +12,16 @@ for a font and insert their own preview text.
 This font chooser is fully Java 18.9 compatible.
 
 ## Cross Platform
-![Font Chooser (Cross Platform)](fontchooser-metallookandfeel.png "Font Chooser (Cross Platform)")
+![Font Chooser (Cross Platform)](images/fontchooser-metallookandfeel.png "Font Chooser (Cross Platform)")
 
 ## GTK / Linux
-![Font Chooser (GTK)](fontchooser-gtklookandfeel.png "Font Chooser (GTK)")
+![Font Chooser (GTK)](images/fontchooser-gtklookandfeel.png "Font Chooser (GTK)")
 
 ## Aqua / Mac
-![Font Chooser (Aqua)](fontchooser-aqualookandfeel.png "Font Chooser (Aqua)")
+![Font Chooser (Aqua)](images/fontchooser-aqualookandfeel.png "Font Chooser (Aqua)")
 
 ## Windows
-![Font Chooser (Windows)](fontchooser-windowslookandfeel.png "Font Chooser (Windows)")
+![Font Chooser (Windows)](images/fontchooser-windowslookandfeel.png "Font Chooser (Windows)")
 
 There are translations for the following languages:
 

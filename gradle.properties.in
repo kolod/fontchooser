@@ -1,0 +1,11 @@
+version=
+
+signing.keyId=
+signing.password=
+signing.secretKeyRingFile=
+
+ossrhUsername=
+ossrhPassword=
+
+org.gradle.parallel=true
+org.gradle.jvmargs=-Xmx4096M

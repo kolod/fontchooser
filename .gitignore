@@ -1,3 +1,18 @@
-*.iml
-target/
+# Ignore intellij idea project settings
 .idea/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle properties
+gradle.properties
+
+# Ignore Build directories
+build/
+
+# Ignore ScreenShots
+/examples/screenshot/**.png
+
+*~
+*.bak
+*.hprof
