@@ -8,7 +8,7 @@ plugins {
 }
 
 project.ext {
-    set("mainClassName", "ScreenshotMaker")
+    set("mainClassName", "io.github.kolod.ScreenshotMaker")
 }
 
 repositories {

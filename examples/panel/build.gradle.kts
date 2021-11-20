@@ -8,7 +8,7 @@ plugins {
 }
 
 project.ext {
-    set("mainClassName", "PanelExample")
+    set("mainClassName", "io.github.kolod.PanelExample")
 }
 
 repositories {

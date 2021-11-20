@@ -8,7 +8,7 @@ plugins {
 }
 
 project.ext {
-    set("mainClassName", "ShowDialogExample")
+    set("mainClassName", "io.github.kolod.ShowDialogExample")
 }
 
 repositories {
